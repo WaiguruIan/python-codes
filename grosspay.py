@@ -1,4 +1,4 @@
-#Adm NO: BSCIT-05-0096\2024
+#Adm NO: BSCIT-05-0096/2024
 #Name: Ian Waiguru
 
 Hours = int(input("Enter the hours: "))
@@ -15,3 +15,4 @@ print ("Hours: ", Hours, file=f)
 print("Rate: ", Rate , file=f)
 print("Gross pay: ", Gross_pay, file=f)
 f.close()
+
