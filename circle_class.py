@@ -1,3 +1,5 @@
+#Adm NO: BSCIT-05-0096\2024
+#Name: Ian Waiguru
 import math
 class circle:
     def __init__(self,radius):
