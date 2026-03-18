@@ -1,3 +1,5 @@
+#Adm NO: BSCIT-05-0096\2024
+#Name: Ian Waiguru
 try:
     result = 10/0
 except Exception as e:
