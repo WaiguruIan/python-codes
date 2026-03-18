@@ -1,3 +1,5 @@
+#Adm NO: BSCIT-05-0096\2024
+#Name: Ian Waiguru
 from abc import ABC, abstractmethod # This must be at the top to import the module of abstract
 #class Vehicle(ABC):
 #   @abstractmethod 
